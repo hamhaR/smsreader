@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMS Reader</string>
+    <string name="sms_label">Latest message</string>
+    <string name="none">None</string>
+    <string name="speech_toggle_on">START READING</string>
+    <string name="speech_toggle_off">STOP READING</string>
+
+    <string name="start_speaking">I will read out loud your incoming messages.</string>
+    <string name="stop_speaking">I will stop now.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
